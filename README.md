@@ -5,3 +5,4 @@ build on the UX design principles
 
     1. Basic Project Components
     2. The Header
+    3. The Footer
