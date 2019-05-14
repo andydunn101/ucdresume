@@ -7,3 +7,4 @@ build on the UX design principles
     2. The Header
     3. The Footer
     4. Three Reasons to Hire Me
+    5. Contact Detais
