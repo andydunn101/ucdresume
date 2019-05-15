@@ -9,3 +9,4 @@ build on the UX design principles
     4. Three Reasons to Hire Me
     5. Contact Details
     6. The Resume Page
+    7. Add the My Skills Details
